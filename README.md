@@ -1,3 +1,3 @@
 # Site Maratona
-Designer site Maratona IFTM
+Design site Maratona IFTM
 Jão veja isto!
